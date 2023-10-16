@@ -1,0 +1,29 @@
+{
+  "name": "be_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul23-bansal/BE_assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul23-bansal/BE_assignment/issues"
+  },
+  "homepage": "https://github.com/Rahul23-bansal/BE_assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2",
+    "nodemon": "^3.0.1",
+    "razorpay": "^2.9.2",
+    "stripe": "^13.10.0",
+    "twilio": "^4.18.1",
+    "uuid": "^9.0.1"
+  }
+}
